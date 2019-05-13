@@ -1,3 +1,5 @@
+#Program for Cultural Heritage Final Project
+
 Object Records at the Fogg Museum
 
 This project shows the number of records of different categories from the “Objects” section of the Fogg Museum. Through a Harvard API key 2332 pages of data were scrapped and using Python they were converted into json files.
@@ -20,3 +22,4 @@ To view a still image of what will happen if the data is exported to Tableau, se
 
 Any other files were created to support the exported data.
 
+by Andreia do Amaral
