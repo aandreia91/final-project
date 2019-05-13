@@ -15,6 +15,7 @@ Each json file contains the whole database of the objects and all the informatio
 
 After creating graphs, each data was exported as an Excel file, so the data can be retrieved without the need to run the Tableau Software.
 
+To run the data and directly see the finished graphs, open the Final Project_PCH.twb, but you need Tableau to open it.
 To view the data on Tableau, the file finaldump.json should be exported, and once in Tableau each category under “people” must be matched with the number of records.
 To view the data without running Tableau, download the fogg_data_excel.zip.
 To view each individual page in json, select the following files: foggdata_json1.zip, foggdata_json2.zip and foggdata_json3.zip
