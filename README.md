@@ -22,4 +22,6 @@ To view a still image of what will happen if the data is exported to Tableau, se
 
 Any other files were created to support the exported data.
 
+To watch a video showing the process and the result by using Python and exporting the data to Tableau, select Final Project_PCH.mov.
+
 by Andreia do Amaral
