@@ -1,4 +1,4 @@
-#Program for Cultural Heritage Final Project
+Program for Cultural Heritage Final Project
 
 Object Records at the Fogg Museum
 
