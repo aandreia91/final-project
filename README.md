@@ -17,11 +17,7 @@ After creating graphs, each data was exported as an Excel file, so the data can 
 
 To view the data on Tableau, the file finaldump.json should be exported, and once in Tableau each category under “people” must be matched with the number of records.
 To view the data without running Tableau, download the fogg_data_excel.zip.
-To view each individual page in json, select the foggdata_jason.zip.
+To view each individual page in json, select the following files: foggdata_json1.zip, foggdata_json2.zip and foggdata_json3.zip
 To view a still image of what will happen if the data is exported to Tableau, select the graphs.png
 
 Any other files were created to support the exported data.
-
-To watch a video showing the process and the result by using Python and exporting the data to Tableau, select Final Project_PCH.mov.
-
-by Andreia do Amaral
